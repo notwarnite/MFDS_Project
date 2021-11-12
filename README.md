@@ -14,11 +14,11 @@ Main python notebook for image reconstruction and comparision.\
 Three separate notebooks for RGB components generation.
 
 ### Libraries Used
-. cvxpy
-. numpy
-. scipy
-. matplotlib
-. imageio
+1. cvxpy
+2. numpy
+3. scipy
+4. matplotlib
+5. imageio
 
 
 ## Project_2
@@ -28,3 +28,12 @@ Three separate notebooks for RGB components generation.
 2. NN Model for Classification
 \
 Link for related data is given in the pdf.
+
+### Libraries Used
+1. pandas
+2. numpy
+3. matplotlib
+4. seaborn
+5. sklearn
+6. tensorflow
+7. tensorflow.keras
