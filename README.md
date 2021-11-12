@@ -13,6 +13,14 @@ Link for relatd files is mentioned in the report.
 Main python notebook for image reconstruction and comparision.\
 Three separate notebooks for RGB components generation.
 
+### Libraries Used
+. cvxpy
+. numpy
+. scipy
+. matplotlib
+. imageio
+
+
 ## Project_2
 ### Classification Model
 #### Python Notebook contains:
